@@ -8,7 +8,7 @@ body{
     left: 100px;
     text-align: center;
     background-color: #0A8043;
-    transform: scale(1.5); /* Increases size by 50% */
+    transform: scale(1); /* Increases size by 50% */
   transform-origin: top center;
   width: auto;
  
